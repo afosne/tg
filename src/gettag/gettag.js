@@ -1,7 +1,7 @@
 import { Context } from 'telegraf';
 import createDebug from 'debug';
 
-import { name, tag } from 'urls.txt';
+import { name, tag } from 'urls.json';
 
 const debug = createDebug('bot:gettag_command');
 
