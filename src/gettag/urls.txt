@@ -1,2 +1,0 @@
-name:fast
-tag:fast
